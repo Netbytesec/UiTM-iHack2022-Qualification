@@ -21,7 +21,7 @@ Basically, this is just SSRF vulnerability. You can read any file by using `file
 3. gain rce via [PHP filters](https://github.com/synacktiv/php_filter_chain_generator)
 ## web05
 ### Installation 🧑🏻‍💻
-1. `docker compose -d up`
+1. `docker-compose up -d`
 
 ### Step 🍿
 This vulnerability is just the same as web02, but with little bit of filter. This system "generally" check given url:
@@ -51,7 +51,7 @@ def hello():
 
 ## web06
 
-The system passed user input to `unserialize()` function without sanitization. User can control deserialize method to modify variable in classes to bypass login authentication. Thus, participant needs to create gadget chain( `ManageCookie{}`, `Auth{}`, `DBController{}` ) to control SQL statement in order to bypass auth.
+The system passed user's input to `unserialize()` function without sanitization. User can control deserialize method to modify variable in classes to bypass login authentication. Thus, participant needs to create gadget chain( `ManageCookie{}`, `Auth{}`, `DBController{}` ) to control SQL statement in order to bypass auth.
 ### Step 🍿
 1. run the code below.
 ```php
