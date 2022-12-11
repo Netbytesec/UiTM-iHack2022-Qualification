@@ -1,7 +1,7 @@
 # Brief Solution
 
 ## rev1
-1. XOR strings array `109;3#n<kl>9ilm;n9j9o`;nla<ooh>h;<<jh>%` with the key and you will get the flag.
+1. XOR strings array ```109;3#n<kl>9ilm;n9j9o`;nla<ooh>h;<<jh>%``` with the key and you will get the flag.
 
 ## rev2
 1. Find `check::flag` function
