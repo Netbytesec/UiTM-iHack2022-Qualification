@@ -20,7 +20,7 @@ Basically, this is just SSRF vulnerability. You can read any file by using `file
 3. gain rce via [PHP filters](https://github.com/synacktiv/php_filter_chain_generator)
 ## web05
 ### Installation 🧑🏻‍💻
-1. `docker compose -d up`
+1. `docker-compose -d up`
 
 ### Step 🍿
 This vulnerability is just the same as web02, but with little bit of filter. This system "generally" check given url:
