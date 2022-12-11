@@ -1,4 +1,4 @@
-This category was not release during the game. *As this question was not approved, hence it was not release during the event*
+This category was not release during the game.<br> *As this question was not approved, hence it was not release during the event*
 
 # Brief Solution
 
@@ -13,4 +13,4 @@ This category was not release during the game. *As this question was not approve
 
 ## MISC 3
 - Decode the string in the text file with this [decoder](https://enkhee-osiris.github.io/Decoder-JSFuck/)
-- Make sure the version was 0.3.0 or it won't decode the string
+- Make sure the version was `0.3.0` or it won't decode the string
