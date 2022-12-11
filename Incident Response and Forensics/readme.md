@@ -1,17 +1,11 @@
 # Brief Solution
 
-## DOCM
+## DFIR 1
 
-## JS
+## DFIR 2
 
-## LNK
+## DFIR 3
 
-## XLSM
+## DFIR 4
 
-## CHM
-
-## EXE
-
-## DOCX
-
-## APK
+## DFIR 5
