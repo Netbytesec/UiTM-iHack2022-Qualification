@@ -29,6 +29,7 @@ command: volatility -f artefact.vmem --profile=Win7SP1x86 pslist
 ## IV
 ### SOC analyst confirm that the infected PC make an connection to the IP address of C2's attacker. Identify the IP address that connected to the C2's attacker. Flag format: ihack{IP}
 ![image](https://user-images.githubusercontent.com/62234787/206900917-66210d85-0897-4e90-8b2d-63eb7ca88565.png)
+
 since the question ask for network connection, we can verify from the network statistic result. Look for the suspicious connection from the network perspective. 
 command: volatility -f artefact.vmem --profile=Win7SP1x86 netscan
 
