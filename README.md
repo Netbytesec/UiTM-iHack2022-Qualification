@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/56353946/206886279-88c0e8f5-8fb8-42c9-8610-47a6851479aa.png)
 
-This repository contains the compiled binaries for all challenges from the iHack 2022 CTF event. Each challenge is located in its own subdirectory, along with any additional files or resources needed to run the challenge. We also attached with a brief solution (readme.md) of each category for students to learn and restudy the challenges.
+This repository contains the binaries/attachments for all challenges from the iHack 2022 CTF event. Each challenge is located in its own subdirectory, along with any additional files or resources needed to run the challenge. We also attached with a brief solution (readme.md) of each category for students to learn and restudy the challenges.
 
 Good luck and have fun!
 
