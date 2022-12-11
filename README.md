@@ -4,7 +4,7 @@ This repository contains the binaries/attachments for all challenges from the iH
 
 Good luck and have fun!
 
-## Challenges's question
+## Challenges' question
 ### Web
 ![image](https://user-images.githubusercontent.com/56353946/206886367-4e6c6a87-88c5-47c9-bbef-5890fc9effd8.png)
 
