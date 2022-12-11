@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  BrotherSSRF:
+    container_name: ihack_web_BrotherSSRF
+    image: brotherssrf
+    build: .
+    ports:
+      - 80:8081
+    environment:
+      - FLAG=SSRFLevelUp:::ihack{e7e5eb71e68d2fedee0695662e85ffd1}
+    restart: always
