@@ -20,9 +20,9 @@ https://drive.google.com/file/d/1gE2LsgBCuobTCs2p-4Uag9WEXqP9-gLM/view?usp=shari
 ## III
 ### Identify process ID (PID) of the suspicious process. Flag format: ihack{PID}
 
-command: `volatility -f artefact.vmem --profile=Win7SP1x86 pslist`
-answer: 1732
-flag: ihack{1732}
+- command: `volatility -f artefact.vmem --profile=Win7SP1x86 pslist`
+- answer: 1732
+- flag: ihack{1732}
 
 ## IV
 
