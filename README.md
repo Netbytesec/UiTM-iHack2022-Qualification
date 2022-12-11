@@ -29,5 +29,5 @@ Good luck and have fun!
 ### Cracking 101
 ![image](https://user-images.githubusercontent.com/56353946/206886449-af8b91ae-559b-467f-93d1-9cf1b3c90cef.png)
 
-### Misc (Not release during game)
+### [Misc](https://github.com/Netbytesec/UiTM-iHack2022-Qualification/tree/main/Misc) (Not release during game)
 ![image](https://user-images.githubusercontent.com/56353946/206886435-76518220-e838-4bf8-b11c-4268346dfe48.png)
