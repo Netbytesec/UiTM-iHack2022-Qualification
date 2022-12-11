@@ -1,6 +1,7 @@
 # Brief Solution
 
 ## web01
+- Change cookies of `notadmin` to `admin`
 
 ## web02
 ### Installation 🧑🏻‍💻

