@@ -50,7 +50,7 @@ def hello():
 
 ## web06
 
-The system passed user input to `unserialize()` function without sanitization. User can control deserialize method to modify variable in classes to bypass login authentication. Thus, participant needs to create gadget chain( `ManageCookie{}`, `Auth{}`, `DBController{}` ) to control SQL statement in order to bypass auth.
+The system passed user's input to `unserialize()` function without sanitization. User can control deserialize method to modify variable in classes to bypass login authentication. Thus, participant needs to create gadget chain( `ManageCookie{}`, `Auth{}`, `DBController{}` ) to control SQL statement in order to bypass auth.
 ### Step 🍿
 1. run the code below.
 ```php
