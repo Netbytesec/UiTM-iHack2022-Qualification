@@ -12,7 +12,7 @@ Open the [threat.zip](https://github.com/Netbytesec/UiTM-iHack2022-Qualification
     - from here, you know it was from access.log
     - you know it was javascript
     - you know it was encoded
-2. Hence you need to URL decode it first, but bear in mind, space in URL is %20 but not +, so you need to include the + and not decode it
+2. Hence you need to URL decode it first, but bear in mind, space in URL is `%20` but not `+`, so you need to include the + & not decode it
     - you need to also take note that, "/" was encoded as "//" in the payload
     - so you need to properly decode it from URL encode payload
 3. Once you've done decoding it from URL, you need to identify what kind of encoding for the javascript,
