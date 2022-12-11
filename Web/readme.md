@@ -3,6 +3,12 @@
 ## web01
 
 ## web02
+### Installation 🧑🏻‍💻
+1. `composer require mpdf/mpdf`
+
+### Step 🍿
+Basically, this is just SSRF vulnerability. You can read any file by using `file://` protocol. Sure you can use other method, feel free to study new thing.
+1. put this URL on searchbar `file:///var/www/html/flag.php`
 
 ## web03
 1. Base 64 decode 2 times the cookie value.
