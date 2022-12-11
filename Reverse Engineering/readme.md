@@ -2,6 +2,7 @@
 
 ## rev1
 1. XOR strings array ```109;3#n<kl>9ilm;n9j9o`;nla<ooh>h;<<jh>%``` with the key and you will get the flag.
+2. OR you can debugging to see the decrypted flag.
 
 ## rev2
 1. Find `check::flag` function
@@ -10,7 +11,7 @@
 4. I divide or split the inputs/flag into 4 variables.
 
 ## rev3
-2 ways to solve:
+3 ways to solve:
 1. XOR the flag byte with key, and rot13 it
 2. Solve the crackme.
     - The first input, ask for password. We rot13 "cyx" for the password.
@@ -24,6 +25,7 @@
             //printf("%d\n", password3 + password4 - password2 << password >> password5);
             if (pass == password3 + password4 - password2 << password >> password5)//8388608
   ```
+  3. Patch the jump (require debugging)
 
 ## rev4
 1. We XOR the shellcode with key, and create remote thread for the shellcode.
