@@ -2,7 +2,7 @@
 
 ## DFIR 1
 
-## DFIR 2
+## [DFIR 2](https://github.com/Netbytesec/UiTM-iHack2022-Qualification/tree/main/Incident%20Response%20and%20Forensics/DFIR%202)
 Open the [threat.zip](https://github.com/Netbytesec/UiTM-iHack2022-Qualification/blob/main/Incident%20Response%20and%20Forensics/DFIR%202/threat.zip) file (d5b70c8bf56aca91acd4754739b44df2), and you'll get access.log file
 
 1. Upon opening the access.log file, you'll find some encoded payload in script tag
