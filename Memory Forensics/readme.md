@@ -1,4 +1,5 @@
-# Brief Solution
+# Brief Solution 
+* This is the solution from the question Memory Forensic Category on pre-qualification IHACK 2022. You also can refer to writeups from other players. Thanks
 
 Download the memory dump file here: 
 https://drive.google.com/file/d/1gE2LsgBCuobTCs2p-4Uag9WEXqP9-gLM/view?usp=sharing
