@@ -5,7 +5,7 @@
 2. `openssl enc -aes-256-cbc -d -in flag.txt.enc`
 
 ## Password Recovery
-1. `john --wordlist=rockyou.txt shadow.txt --format=crypt` 
+`john --wordlist=rockyou.txt shadow.txt --format=crypt` 
 
 ## Forgotten Password
 1. get the hash for password.kbdx and crack the master key. Use the master to get flag.
