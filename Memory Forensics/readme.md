@@ -6,9 +6,9 @@ https://drive.google.com/file/d/1gE2LsgBCuobTCs2p-4Uag9WEXqP9-gLM/view?usp=shari
 ## I
 ### Provide the md5 hash of the memory image as the flag. Flag format: ihack{MD5}
 
-Command: `md5sum artefact.vmem`
-answer: 2aff5e0bd33f622790c3db33f0798978  
-flag: ihack{2aff5e0bd33f622790c3db33f0798978}
+- Command: `md5sum artefact.vmem`
+- answer: 2aff5e0bd33f622790c3db33f0798978  
+- flag: ihack{2aff5e0bd33f622790c3db33f0798978}
 
 ## II
 ### There is an incident that happens. The SOC team has performed the memory dump on that infected PC. Based on the memory dump file, identify the suspicious process name used by the attacker. Flag format : ihack{name.ext}
