@@ -1,10 +1,8 @@
 # iHack2022-Qualification
 
-This repository contains the binaries/attachments for all challenges from the iHack 2022 CTF event. Each challenge is located in its own subdirectory, along with any additional files or resources needed to run the challenge. We also attached with a brief solution (readme.md) of each category for students to learn and restudy the challenges.
+This repository contains the binaries/attachments for all challenges from the iHack 2022 CTF event. Each challenge is located in its own subdirectory, along with any additional files or resources needed to run the challenge. We also attached with a brief solution (readme.md) of each category for students to learn and restudy the challenges. For Web and Pwn challenges, the server that we set up during the game for the challenges has been down. You can set up the challenges in your lab based on the given docker files.
 
 Good luck and have fun!
-
-Web and Pwn services that were used during the game has been down. You can setup the challenges in your own lab based on the given files' resources.
 
 ## Challenges' question
 ### Web
