@@ -11,7 +11,7 @@
 ## web04
 1. user click on About and redirected to page.php?show=about.php
 2. show parameter is vulnerable to local file inclusion
-3. gain rce via php filters, https://github.com/synacktiv/php_filter_chain_generator
+3. gain rce via [PHP filters](https://github.com/synacktiv/php_filter_chain_generator)
 ## web05
 
 ## web06
