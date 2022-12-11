@@ -4,7 +4,7 @@ This repository contains the binaries/attachments for all challenges from the iH
 
 Good luck and have fun!
 
-Web and Pwn services has been stop. You can setup the challenge in your own lab based on the given files resources.
+Web and Pwn services during the game has been down. You can setup the challenges in your own lab based on the given files resources.
 
 ## Challenges' question
 ### Web
