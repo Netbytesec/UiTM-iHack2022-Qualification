@@ -7,18 +7,13 @@
 ?>
 
 <style>
-h1 {
-	font-family: 'Charm', cursive; margin-top: 20px; margin-left:40px; font-size: 50px
-}
 
 .wrong {
 	color: #FF4242;
-	text-shadow: 2px 2px #000000;
 }
 
 .right {
 	color: #42FF42;
-	text-shadow: 2px 2px #000000;
 }
 </style>
 
@@ -26,8 +21,28 @@ h1 {
 <link href="https://fonts.googleapis.com/css?family=Charm" rel="stylesheet">
 </head>
 <body>
-<h1>The admin says he forgot his password. How are we going to retrieve the cookie?
+  <main id="main-holder">
+    <h1 id="login-header">Only admin can login v2</h1>
+    
+    <form id="login-form">
+      <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Username">
+      <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password">
+      <input type="submit" value="Login" id="login-form-submit">
+    </form>
+  
+  </main>
 </body>
+
+		<!-- if (strcmp($_COOKIE["password"], $pass) == 0) {
+				echo " class='right'>";
+				echo "Good job! Here's your flag:<br>ihack{}";
+			} else {
+				echo " class='wrong'>";
+				echo "You got the admin password wrong :c<br>";
+			}
+			echo "</h1";
+		} -->
+ 
 <?php
     error_reporting(0);
 	$pass = "yabedabedooo0000#@#@lesgo";
