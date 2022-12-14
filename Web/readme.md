@@ -34,7 +34,7 @@ So basically we can bypass the filter using URL redirect(302). The idea is we wi
 ***There are 3 methods you can use***
 1. You can use URL shorterner and points it to `http://127.0.0.1:8081/flag` (only certains works)
 2. You can use public domain for localhost testing `http://localtest.me:8081/flag`
-3. Or more painfull but it good to understand how it works. 
+3. Or more painfull but it is good to understand how it works. 
   - Code below will redirect to `http://127.0.0.1:8081/flag`
 ```py
 from flask import Flask,redirect
